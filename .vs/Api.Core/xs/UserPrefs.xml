@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{D4F4CE4D-BB9B-47E8-ACF6-AC74E7EBB5ED}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Api.Core/Program.cs">
     <Files>
-      <File FileName="Api.Core/Program.cs" Line="26" Column="2" />
+      <File FileName="Api.Core/Program.cs" Line="23" Column="54" />
       <File FileName="Api.Core/appsettings.Development.json" />
       <File FileName="Api.Core/Properties/launchSettings.json" />
       <File FileName="Api.Core/Api.Core.csproj" />

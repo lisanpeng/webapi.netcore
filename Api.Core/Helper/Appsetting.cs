@@ -5,33 +5,6 @@ using System.Linq;
 
 namespace Api.Core
 {
-    //public class Appsetting
-    //{
-    //    private static IConfigurationSection _appSection = null;
-
-    //    public static string AppSettings(string key)
-    //    {
-    //        string str = string.Empty;
-
-    //        if (_appSection.GetSection(key) != null)
-    //        {
-    //            str = _appSection.GetSection(key).Value;
-    //        }
-
-    //        return str;
-    //    }
-
-    //    public static void SetConfig(IConfigurationSection section)
-    //    {
-    //        _appSection = section;
-    //    }
-
-    //    public static string GetConfig(string key)
-    //    {
-    //        return AppSettings(key);
-    //    }
-    //}
-
     /// <summary>
     /// appsettings.json操作类
     /// </summary>
