@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.Core</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Core.Controllers.TestController.Get">
+            <summary>
+            get dailies
+            </summary>
+        </member>
+        <member name="M:Api.Core.Controllers.WeatherForecastController.Get">
+            <summary>
+            Get Weather Forecast.
+            </summary>
+        </member>
+        <member name="T:Api.Core.Appsettings">
+            <summary>
+            appsettings.json操作类
+            </summary>
+        </member>
+        <member name="M:Api.Core.Appsettings.app(System.String[])">
+            <summary>
+            封装要操作的字符
+            </summary>
+            <param name="sections">节点配置</param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Core.MD5Helper.MD5Encrypt16(System.String)">
+            <summary>
+            16位MD5加密
+            </summary>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Core.MD5Helper.MD5Encrypt32(System.String)">
+            <summary>
+            32位MD5加密
+            </summary>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Core.MD5Helper.MD5Encrypt64(System.String)">
+            <summary>
+            64位MD5加密
+            </summary>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
