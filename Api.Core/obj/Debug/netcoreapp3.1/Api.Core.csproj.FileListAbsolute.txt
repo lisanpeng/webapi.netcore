@@ -47,3 +47,7 @@
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.xml
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.pdb
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.csprojAssemblyReference.cache
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.config
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.dll
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll

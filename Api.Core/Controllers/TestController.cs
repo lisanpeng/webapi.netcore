@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Dapper;
+using Microsoft.Extensions.Logging;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Api.Core.Controllers
@@ -11,6 +12,12 @@ namespace Api.Core.Controllers
     [Route("api/[controller]")]
     public class TestController : Controller
     {
+        private readonly ILogger<TestController> _logger;
+
+        public TestController(ILogger<TestController> logger)
+        {
+            _logger = logger;
+        }
         /// <summary>
         /// get dailies
         /// </summary>
@@ -18,6 +25,8 @@ namespace Api.Core.Controllers
         [HttpGet]
         public IActionResult Get()
         {
+            _logger.LogInformation("Get Dailies");
+            _logger.LogError("nlog error test");
             using var connection = DapperHelper.DB;
             var res = connection.Query("select top 10 * from prizm_dailies");
             return Json(res);

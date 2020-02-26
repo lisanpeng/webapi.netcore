@@ -12,6 +12,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System.IO;
 using System.Reflection;
+using NLog;
+using NLog.Web.AspNetCore;
 namespace Api.Core
 {
     public class Startup
@@ -72,6 +74,7 @@ namespace Api.Core
                 c.RoutePrefix = string.Empty;
             });
 
+            
             //app.UseHttpsRedirection();
 
             //通过终结点路由，CORS 中间件必须配置为在对 UseRouting 和 UseEndpoints的调用之间执行。 配置不正确将导致中间件停止正常运行。
