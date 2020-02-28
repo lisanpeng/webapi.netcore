@@ -1,6 +1,7 @@
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.config
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Api.Core
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Api.Core.deps.json
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Api.Core.runtimeconfig.json
@@ -10,6 +11,7 @@
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Api.Core.xml
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Dapper.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Dapper.Contrib.dll
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
@@ -19,6 +21,9 @@
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.dll
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -46,8 +51,3 @@
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.xml
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.pdb
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.csprojAssemblyReference.cache
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.config
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.dll
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll

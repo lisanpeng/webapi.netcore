@@ -10,3 +10,102 @@
 2020-02-26 13:06:27.1467 Info Loading assembly: NLog.Web.AspNetCore
 2020-02-26 13:06:27.1919 Info Adding target FileTarget(Name=ApiCoreLog)
 2020-02-26 13:06:27.3583 Info Found 14 configuration items
+2020-02-28 10:59:24.9023 Info Message Template Auto Format enabled
+2020-02-28 10:59:24.9176 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 10:59:24.9656 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 10:59:25.0927 Info Found 14 configuration items
+2020-02-28 11:00:48.6086 Info Message Template Auto Format enabled
+2020-02-28 11:00:48.6170 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:00:48.6510 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:00:48.7762 Info Found 14 configuration items
+2020-02-28 11:02:37.5627 Info Message Template Auto Format enabled
+2020-02-28 11:02:37.5710 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:02:37.6047 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:02:37.7541 Info Found 14 configuration items
+2020-02-28 11:04:10.5993 Info Message Template Auto Format enabled
+2020-02-28 11:04:10.6079 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:04:10.6433 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:04:10.7918 Info Found 14 configuration items
+2020-02-28 11:06:51.6754 Info Message Template Auto Format enabled
+2020-02-28 11:06:51.6843 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:06:51.7192 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:06:51.8584 Info Found 14 configuration items
+2020-02-28 11:09:45.9512 Info Message Template Auto Format enabled
+2020-02-28 11:09:45.9599 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:09:45.9936 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:09:46.1340 Info Found 14 configuration items
+2020-02-28 11:18:13.8969 Info Message Template Auto Format enabled
+2020-02-28 11:18:13.9057 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:18:13.9430 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:18:14.0820 Info Found 14 configuration items
+2020-02-28 11:22:38.1798 Info Message Template Auto Format enabled
+2020-02-28 11:22:38.1895 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:22:38.2247 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:22:38.3625 Info Found 14 configuration items
+2020-02-28 11:24:51.8333 Info Message Template Auto Format enabled
+2020-02-28 11:24:51.8419 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:24:51.8768 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:24:52.0067 Info Found 14 configuration items
+2020-02-28 11:34:34.7171 Info Message Template Auto Format enabled
+2020-02-28 11:34:34.7260 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:34:34.7597 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:34:34.8899 Info Found 14 configuration items
+2020-02-28 11:34:35.3686 Info Shutdown() called. Logger closing...
+2020-02-28 11:34:35.3686 Info Closing old configuration.
+2020-02-28 11:34:35.3761 Info Logger has been closed down.
+2020-02-28 11:34:35.3770 Info AppDomain Shutting down. Logger closing...
+2020-02-28 11:34:35.3780 Info Logger has been shut down.
+2020-02-28 11:35:04.7683 Info Message Template Auto Format enabled
+2020-02-28 11:35:04.7765 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:35:04.8099 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:35:04.9372 Info Found 14 configuration items
+2020-02-28 11:35:05.4054 Info Shutdown() called. Logger closing...
+2020-02-28 11:35:05.4054 Info Closing old configuration.
+2020-02-28 11:35:05.4135 Info Logger has been closed down.
+2020-02-28 11:35:05.4146 Info AppDomain Shutting down. Logger closing...
+2020-02-28 11:35:05.4157 Info Logger has been shut down.
+2020-02-28 11:35:26.3115 Info Message Template Auto Format enabled
+2020-02-28 11:35:26.3305 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:35:26.4169 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:35:26.6396 Info Found 14 configuration items
+2020-02-28 11:35:28.2345 Info Shutdown() called. Logger closing...
+2020-02-28 11:35:28.2345 Info Closing old configuration.
+2020-02-28 11:35:28.2419 Info Logger has been closed down.
+2020-02-28 11:35:28.2462 Info AppDomain Shutting down. Logger closing...
+2020-02-28 11:35:28.2473 Info Logger has been shut down.
+2020-02-28 11:37:52.3999 Info Message Template Auto Format enabled
+2020-02-28 11:37:52.4084 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:37:52.4433 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:37:52.5920 Info Found 14 configuration items
+2020-02-28 11:47:08.7855 Info Message Template Auto Format enabled
+2020-02-28 11:47:08.7955 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:47:08.8337 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:47:08.9996 Info Found 14 configuration items
+2020-02-28 11:48:53.9856 Info Message Template Auto Format enabled
+2020-02-28 11:48:53.9957 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:48:54.0341 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:48:54.1946 Info Found 14 configuration items
+2020-02-28 11:54:07.4473 Info Message Template Auto Format enabled
+2020-02-28 11:54:07.4648 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:54:07.5307 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:54:07.6573 Info Found 14 configuration items
+2020-02-28 11:56:48.8371 Info Message Template Auto Format enabled
+2020-02-28 11:56:48.8473 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:56:48.8863 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:56:49.0321 Info Found 14 configuration items
+2020-02-28 11:59:11.6883 Info Message Template Auto Format enabled
+2020-02-28 11:59:11.7044 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 11:59:11.7472 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 11:59:11.9020 Info Found 14 configuration items
+2020-02-28 12:06:09.5384 Info Message Template Auto Format enabled
+2020-02-28 12:06:09.5480 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 12:06:09.5919 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 12:06:09.7593 Info Found 14 configuration items
+2020-02-28 12:09:43.8507 Info Message Template Auto Format enabled
+2020-02-28 12:09:43.8615 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 12:09:43.9007 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 12:09:44.0592 Info Found 14 configuration items
+2020-02-28 12:20:10.3821 Info Message Template Auto Format enabled
+2020-02-28 12:20:10.3901 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 12:20:10.4245 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 12:20:10.5809 Info Found 14 configuration items

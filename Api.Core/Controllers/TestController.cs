@@ -5,10 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Dapper;
 using Microsoft.Extensions.Logging;
+using Microsoft.AspNetCore.Authorization;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Api.Core.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     public class TestController : Controller
     {
