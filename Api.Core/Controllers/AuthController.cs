@@ -14,55 +14,37 @@ namespace Api.Core.Controllers
     [Route("api/[controller]")]
     public class AuthController : Controller
     {
-        // GET: api/values
-        [HttpGet]
-        public IActionResult Get()
-        {
-            var claims = new Claim[]
-            {
-                new Claim(ClaimTypes.Name, "user")
-            };
-
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Appsettings.app(new string[] { "Jwt", "secret" })));
-
-            var token = new JwtSecurityToken(
-                issuer: Appsettings.app(new string[] { "Jwt", "issuer" }),
-                audience: Appsettings.app(new string[] { "Jwt", "audience" }),
-                claims: claims,
-                notBefore: DateTime.Now,
-                expires: DateTime.Now.AddHours(24),
-                signingCredentials: new SigningCredentials(key, SecurityAlgorithms.HmacSha256)
-            );
-
-            var jwtToken = new JwtSecurityTokenHandler().WriteToken(token);
-
-
-            return Ok(new { Token = jwtToken });
-        }
-
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
         // POST api/values
         [HttpPost]
-        public void Post([FromBody]string value)
+        public IActionResult Post(string username, string password)
         {
+            //模拟登录
+            if (!string.IsNullOrEmpty(username) && !string.IsNullOrEmpty(password))
+            {
+                var claims = new Claim[]
+                {
+                    new Claim(ClaimTypes.Name, "user")
+                };
+
+                var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Appsettings.app(new string[] { "Jwt", "secret" })));
+
+                var token = new JwtSecurityToken(
+                    issuer: Appsettings.app(new string[] { "Jwt", "issuer" }),
+                    audience: Appsettings.app(new string[] { "Jwt", "audience" }),
+                    claims: claims,
+                    notBefore: DateTime.Now,
+                    expires: DateTime.Now.AddHours(24),
+                    signingCredentials: new SigningCredentials(key, SecurityAlgorithms.HmacSha256)
+                );
+
+                var jwtToken = new JwtSecurityTokenHandler().WriteToken(token);
+                return Ok(new { token = jwtToken });
+            }
+            else
+            {
+                return BadRequest("用户名或密码错误");
+            }
         }
 
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }
