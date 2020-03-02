@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "lisanpeng",
+  "classifications": [ "WEBAPI/NetCore 3.x" ],
+  "identity": "apicore",
+  "name": "ASP.NET Core 3.X Web API",
+  "shortName": "apicore",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Api.Core",
+  "preferNameDirectory": true
+}

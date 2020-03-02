@@ -8,6 +8,7 @@ ASP.NET Core 3.1 Webapi模板
 3. Dapper
 4. 使用NLog记录日志
 5. Jwt身份验证
+6. 使用tempalte.json创建自定义模板
 
 **开发环境**
 

@@ -1,3 +1,11 @@
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/staticwebassets/Api.Core.StaticWebAssets.Manifest.cache
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/staticwebassets/Api.Core.StaticWebAssets.xml
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.csproj.CoreCompileInputs.cache
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.MvcApplicationPartsAssemblyInfo.cs
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.MvcApplicationPartsAssemblyInfo.cache
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.AssemblyInfoInputs.cache
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.AssemblyInfo.cs
+/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.csprojAssemblyReference.cache
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
@@ -39,13 +47,6 @@
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/staticwebassets/Api.Core.StaticWebAssets.Manifest.cache
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/staticwebassets/Api.Core.StaticWebAssets.xml
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.csproj.CoreCompileInputs.cache
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.MvcApplicationPartsAssemblyInfo.cs
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.MvcApplicationPartsAssemblyInfo.cache
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.AssemblyInfoInputs.cache
-/Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.AssemblyInfo.cs
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.RazorTargetAssemblyInfo.cache
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.csproj.CopyComplete
 /Users/lisanpeng/Documents/coding/netcore projects/Api.Core/Api.Core/obj/Debug/netcoreapp3.1/Api.Core.dll

@@ -109,3 +109,31 @@
 2020-02-28 12:20:10.3901 Info Loading assembly: NLog.Web.AspNetCore
 2020-02-28 12:20:10.4245 Info Adding target FileTarget(Name=ApiCoreLog)
 2020-02-28 12:20:10.5809 Info Found 14 configuration items
+2020-02-28 13:43:07.0668 Info Message Template Auto Format enabled
+2020-02-28 13:43:07.0882 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 13:43:07.1319 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 13:43:07.2903 Info Found 14 configuration items
+2020-02-28 13:44:24.5832 Info Message Template Auto Format enabled
+2020-02-28 13:44:24.5922 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 13:44:24.6285 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 13:44:24.7667 Info Found 14 configuration items
+2020-02-28 13:45:38.5617 Info Message Template Auto Format enabled
+2020-02-28 13:45:38.5774 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 13:45:38.6179 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 13:45:38.7742 Info Found 14 configuration items
+2020-02-28 13:46:24.3931 Info Message Template Auto Format enabled
+2020-02-28 13:46:24.4033 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 13:46:24.4458 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 13:46:24.5896 Info Found 14 configuration items
+2020-02-28 13:56:26.6415 Info Message Template Auto Format enabled
+2020-02-28 13:56:26.6659 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-28 13:56:26.7368 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-02-28 13:56:26.8626 Info Found 14 configuration items
+2020-03-02 10:01:46.2443 Info Message Template Auto Format enabled
+2020-03-02 10:01:46.2526 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-02 10:01:46.2863 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-03-02 10:01:46.3957 Info Found 14 configuration items
+2020-03-02 10:02:20.5588 Info Message Template Auto Format enabled
+2020-03-02 10:02:20.5760 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-02 10:02:20.6458 Info Adding target FileTarget(Name=ApiCoreLog)
+2020-03-02 10:02:20.7631 Info Found 14 configuration items

@@ -22,5 +22,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Helper\" />
+    <Folder Include=".template.config\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".template.config\template.json" />
   </ItemGroup>
 </Project>
